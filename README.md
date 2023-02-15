@@ -1,5 +1,3 @@
-[![MasterHead](https://qtxasset.com/quartz/qcloud4/media/image/sensorsmag/1526322107/HERO.gif?VersionId=a10z.xhtFtu2KkIGbjeMcI7pkIHWEjio)]
-
 <h1 align="center">Hi 👋, I'm Israel Josiah</h1>
 <h3 align="center">A Proactive and Results-Driven Data Analyst: Transforming Raw Data into Actionable Insights.</h3>
 <img align="right" alt="Coding" width ="400" src ="https://aryng.com/assets/img/ani2.gif">
