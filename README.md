@@ -1,4 +1,4 @@
-![Banner](https://www.bleepstatic.com/content/hl-images/2018/07/13/GitHub-logo.png)
+![Banner](https://media.licdn.com/dms/image/D4D16AQEuU2Cg4KggTg/profile-displaybackgroundimage-shrink_350_1400/0/1677321343190?e=1694044800&v=beta&t=w8UUHy7w8UzUCcLXhNy3PFrza-CvNfluTk9stShaXl0)
 <h1 align="center">Hi 👋, I'm Israel Josiah</h1>
 <h3 align="center">A Proactive and Results-Driven Data Analyst: Transforming Raw Data into Actionable Insights.</h3>
 <img align="right" alt="Coding" width ="400" src ="https://aryng.com/assets/img/ani2.gif">
