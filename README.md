@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQEuU2Cg4KggTg/profile-displaybackgroundimage-shrink_350_1400/0/1677321343190?e=1682553600&v=beta&t=-bb3unK9-Q9-Ol5VJnk2WSf_44aKOtVt9K49IuefJuY)]
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQFjv-T9Oz6hZA/profile-displaybackgroundimage-shrink_350_1400/0/1677070744421?e=1682553600&v=beta&t=dGfgYG0FUaB6dhW3YCHlRUh_7HM3Itr1hFCsJX1-TCw)]
 <h1 align="center">Hi 👋, I'm Israel Josiah</h1>
 <h3 align="center">A Proactive and Results-Driven Data Analyst: Transforming Raw Data into Actionable Insights.</h3>
 <img align="right" alt="Coding" width ="400" src ="https://aryng.com/assets/img/ani2.gif">
