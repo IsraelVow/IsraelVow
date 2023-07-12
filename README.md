@@ -1,5 +1,4 @@
-[![Banner](https://media.licdn.com/dms/image/D4D16AQGaBawpA-HoDA/profile-displaybackgroundimage-shrink_350_1400/0/1688836777520?e=1694044800&v=beta&t=9jyxHVzNhMmeuajR4Yw8xS5wtaGohc1R0esW2WCJtnE)](https://github.com/israelvow)
-
+![Banner](https://media.licdn.com/dms/image/D4D16AQEuU2Cg4KggTg/profile-displaybackgroundimage-shrink_350_1400/0/1677321343190?e=1694044800&v=beta&t=w8UUHy7w8UzUCcLXhNy3PFrza-CvNfluTk9stShaXl0)
 
 # Hi 👋, I'm Israel Josiah
 ## A Proactive and Results-Driven Data Analyst: Transforming Raw Data into Actionable Insights.
