@@ -1,4 +1,4 @@
-![Banner](https://media.licdn.com/dms/image/D4D16AQEuU2Cg4KggTg/profile-displaybackgroundimage-shrink_350_1400/0/1677321343190?e=1694044800&v=beta&t=w8UUHy7w8UzUCcLXhNy3PFrza-CvNfluTk9stShaXl0)
+[![Banner](https://i.imgur.com/jvDmfRf.png)](https://github.com/israelvow)
 
 # Hi 👋, I'm Israel Josiah
 ## A Proactive and Results-Driven Data Analyst: Transforming Raw Data into Actionable Insights.
