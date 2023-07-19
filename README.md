@@ -1,4 +1,4 @@
-[![Banner](https://i.imgur.com/jvDmfRf.png)](https://github.com/israelvow)
+[![Banner]([https://i.imgur.com/jvDmfRf.png](https://imgur.com/WKPwVJw))](https://github.com/israelvow)
 
 # Hi 👋, I'm Israel Josiah
 ## A Proactive and Results-Driven Data Analyst: Transforming Raw Data into Actionable Insights.
