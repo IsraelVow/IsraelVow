@@ -21,25 +21,45 @@
 
 ### Excel-Based Projects
 
-- **Asset Manager (VBA)**: Created an Excel-based project for Almadina Clinic to track and manage various assets, including printers, scanners, and office equipment. The system calculates the state, quantity, and location of assets and assists in making informed decisions about repairs and replacements.
+1. ** [Expense Management System](https://github.com/IsraelVow/Expense-Management-System-VBA-Excel-Project-) **
 
-- **Inventory Management Tool (VBA)**: Developed an Excel-based inventory management tool for efficient tracking of stock levels, order quantities, and reordering points. The tool automates inventory-related tasks, helping businesses streamline their supply chain operations.
+- The project is designed to provide organizations with an efficient and user-friendly solution for managing expenses. 
+- The system allows users to enter, track, and analyze expenses through a custom userform giving a real-time analytics dashboard including report generation and budget creation.
+- The system was successfully deployed to over 50 users, significantly saving time and money.
+- The system received positive feedback from users, who appreciated its user-friendliness and comprehensive features.
+  
+
+2. ** [NHIS Claims Management System](https://github.com/IsraelVow/NHIS-Claims-Managements-System-With-Access-Database) **
+- This comprehensive solution is designed to streamline claims processing and management for healthcare providers, specifically tailored for Almadina Clinic. 
+- This project was initiated to address the challenges faced by Almadina Clinic in tracking claims, ensuring data accuracy, and meeting submission deadlines. 
+- It serves as an efficient tool for NHIS officers to manage and process claims seamlessly.
+   
+
+3. ** [Asset Manager](https://github.com/IsraelVow/Asset-Management-System-with-Excel-VBA) **
+- This advanced inventory mgt system allows organizations to track all organizational assets, gadgets, and office stationery to estimate and ascertain their worth based on life data entry
+- Manage various assets, including printers, scanners, and office equipment.
+- The system calculates the state, quantity, and location of assets and assists in making informed decisions about repairs and replacements.
+
 
 ### Data Analyst Projects
 
-- **Sales Analysis Dashboard (Power BI)**: Designed a comprehensive Power BI dashboard for analyzing sales data, customer trends, and product performance. The dashboard provides valuable insights for optimizing sales strategies and improving revenue.
+1. ** [Health Insurance Cost Analysis](https://github.com/IsraelVow/Health-Insurance-Cost-Analysis-Dashboard) **
+- This project aims to gain valuable insights into the cost structure, identify cost drivers, and make data-driven decisions to mitigate or minimize cost implications, thereby improving the overall financial efficiency of the healthcare services provided to HMOs Cast study: Almadina Clinic
 
-- **Customer Segmentation (Python)**: Implemented data analysis and segmentation techniques in Python to categorize customers based on their purchase behavior. This project aids in personalized marketing strategies and customer retention efforts.
+2. **[Hotel Revenue Analysis](https://github.com/IsraelVow/Hotel-Revenue-Analysis)**
+- The goal of this project is to build an end-to-end visual project to answer various business questions posed by stakeholders. 
+- The analysis involves creating an SQL database, uploading Excel data to the database, connecting it to Power BI, and building visualizations to present key insights.
 
 ### Other Interesting Projects
 
-- **Real Estate Price Prediction (Machine Learning)**: Developed a machine learning model to predict real estate prices using historical data, property features, and market trends. The model assists potential buyers and sellers in making informed decisions.
+1. **Real Estate Price Prediction (Machine Learning)**: Developed a machine learning model to predict real estate prices using historical data, property features, and market trends. The model assists potential buyers and sellers in making informed decisions.
 
-- **Image Classification (Machine Learning)**: Created a machine learning model capable of classifying images into predefined categories. This technology is valuable in applications like image tagging and content moderation.
+2. **Image Classification (Machine Learning)**: Created a machine learning model to classify images into predefined categories. This technology is valuable in applications like image tagging and content moderation.
 
-- **Potato Disease Classification (Deep Learning)**: Utilized deep learning techniques to build a model for classifying diseases in potato plants based on leaf images. This project supports early disease detection in agriculture.
+3. **Potato Disease Classification (Deep Learning)**: Utilized deep learning techniques to build a model for classifying diseases in potato plants based on leaf images. This project supports early disease detection in agriculture.
 
-- **Chatbot Development (NLP)**: Designed and implemented a chatbot using Dialogflow, enhancing user engagement and interaction on various platforms. This chatbot provides instant responses and assistance.
+4. **Chatbot Development (NLP)**: Designed and implemented a chatbot using Dialogflow, enhancing user engagement and interaction on various platforms. This chatbot provides instant responses and assistance.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
