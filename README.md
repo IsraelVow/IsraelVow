@@ -26,15 +26,12 @@
 - The project is designed to provide organizations with an efficient and user-friendly solution for managing expenses. 
 - The system allows users to enter, track, and analyze expenses through a custom userform giving a real-time analytics dashboard including report generation and budget creation.
 - The system was successfully deployed to over 50 users, significantly saving time and money.
-- The system received positive feedback from users, who appreciated its user-friendliness and comprehensive features.
-  
 
 2. **[NHIS Claims Management System](https://github.com/IsraelVow/NHIS-Claims-Managements-System-With-Access-Database)**
 - This comprehensive solution is designed to streamline claims processing and management for healthcare providers, specifically tailored for Almadina Clinic. 
 - This project was initiated to address the challenges faced by Almadina Clinic in tracking claims, ensuring data accuracy, and meeting submission deadlines. 
 - It serves as an efficient tool for NHIS officers to manage and process claims seamlessly.
    
-
 3. **[Asset Manager](https://github.com/IsraelVow/Asset-Management-System-with-Excel-VBA)**
 - This advanced inventory mgt system allows organizations to track all organizational assets, gadgets, and office stationery to estimate and ascertain their worth based on life data entry
 - Manage various assets, including printers, scanners, and office equipment.
