@@ -11,8 +11,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/jvowid?logo=twitter&style=for-the-badge)](https://twitter.com/jvowid)
 
-- 🔭 I’m currently working on **Byte-Express**
-- 🌱 I’m currently learning **Python: Flask & Python: Machine Learning**
+- 🔭 Currently building [BiteExpress](https://linktr.ee/biteexpress) , a restaurant food delivery service
+- 🌱 I’m also currently learning **Python: Flask & Python: Machine Learning**
 - 💬 Ask me about **Python, SQL, Power BI & Excel**
 - 📫 How to reach me: israeljvow@gmail.com
 - ⚡ Fun fact: "It might sound Strange when I say that not all heroes wear capes; some just wear glasses and work with data. 🦸‍♂️🤓 in other words, I'm an Excel wizard by day and a data sorcerer by night. 🌟"
