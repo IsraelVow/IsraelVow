@@ -17,6 +17,30 @@
 - 📫 How to reach me: israeljvow@gmail.com
 - ⚡ Fun fact: "It might sound Strange when I say that not all heroes wear capes; some just wear glasses and work with data. 🦸‍♂️🤓 in other words, I'm an Excel wizard by day and a data sorcerer by night. 🌟"
 
+## Projects
+
+### Excel-Based Projects
+
+- **Asset Manager (VBA)**: Created an Excel-based project for Almadina Clinic to track and manage various assets, including printers, scanners, and office equipment. The system calculates the state, quantity, and location of assets and assists in making informed decisions about repairs and replacements.
+
+- **Inventory Management Tool (VBA)**: Developed an Excel-based inventory management tool for efficient tracking of stock levels, order quantities, and reordering points. The tool automates inventory-related tasks, helping businesses streamline their supply chain operations.
+
+### Data Analyst Projects
+
+- **Sales Analysis Dashboard (Power BI)**: Designed a comprehensive Power BI dashboard for analyzing sales data, customer trends, and product performance. The dashboard provides valuable insights for optimizing sales strategies and improving revenue.
+
+- **Customer Segmentation (Python)**: Implemented data analysis and segmentation techniques in Python to categorize customers based on their purchase behavior. This project aids in personalized marketing strategies and customer retention efforts.
+
+### Other Interesting Projects
+
+- **Real Estate Price Prediction (Machine Learning)**: Developed a machine learning model to predict real estate prices using historical data, property features, and market trends. The model assists potential buyers and sellers in making informed decisions.
+
+- **Image Classification (Machine Learning)**: Created a machine learning model capable of classifying images into predefined categories. This technology is valuable in applications like image tagging and content moderation.
+
+- **Potato Disease Classification (Deep Learning)**: Utilized deep learning techniques to build a model for classifying diseases in potato plants based on leaf images. This project supports early disease detection in agriculture.
+
+- **Chatbot Development (NLP)**: Designed and implemented a chatbot using Dialogflow, enhancing user engagement and interaction on various platforms. This chatbot provides instant responses and assistance.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jvowid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jvowid" height="30" width="40" /></a>
