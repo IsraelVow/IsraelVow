@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **Python: Flask & Python: Machine Learning**
 - 💬 Ask me about **Python, SQL, Power BI & Excel**
 - 📫 How to reach me: israeljvow@gmail.com
-- ⚡ Fun fact: "Did you know that the term 'big data' was first coined in the early 2000s to describe datasets too large to be processed using traditional data analysis methods? Today, big data is a major focus of the data analytics industry, with businesses and organizations worldwide using cutting-edge technologies to analyze massive amounts of data to gain insights and drive decision-making."
+- ⚡ Fun fact: "Not all heroes wear capes; some just wear glasses and work with data. 🦸‍♂️🤓"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
