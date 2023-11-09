@@ -2,7 +2,7 @@
 
 
 # Hi 👋, I'm Israel Josiah
-## A Proactive and Results-Driven Data Analyst: Transforming Raw Data into Actionable Insights
+## Excel App Developer and Data/Business Analyst
 
 <img align="right" alt="Coding" width="400" src="https://aryng.com/assets/img/ani2.gif">
 
