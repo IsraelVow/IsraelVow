@@ -22,8 +22,6 @@
 ### Excel-Based Projects
 
 1. **[Expense Management System](https://github.com/IsraelVow/Expense-Management-System-VBA-Excel-Project-)**
-
-- The project is designed to provide organizations with an efficient and user-friendly solution for managing expenses. 
 - The system allows users to enter, track, and analyze expenses through a custom userform giving a real-time analytics dashboard including report generation and budget creation.
 - The system was successfully deployed to over 50 users, significantly saving time and money.
 
