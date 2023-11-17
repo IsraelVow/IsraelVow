@@ -2,7 +2,7 @@
 
 
 # Hi 👋, I'm Israel Josiah
-## Excel App Developer and Data/Business Analyst
+## Business Data Analyst and Excel App Developer
 
 <img align="right" alt="Coding" width="400" src="https://aryng.com/assets/img/ani2.gif">
 
@@ -15,9 +15,18 @@
 - 🌱 I’m also currently learning **Python: Flask & Python: Machine Learning**
 - 💬 Ask me about **Python, SQL, Power BI & Excel**
 - 📫 How to reach me: israeljvow@gmail.com
-- ⚡ Fun fact: "It might sound Strange when I say that not all heroes wear capes; some just wear glasses and work with data. 🦸‍♂️🤓 in other words, I'm an Excel wizard by day and a data sorcerer by night. 🌟"
+- ⚡ Fun fact: "It's Strange when I say that not all heroes wear capes because some just wear glasses and work with data. 🦸‍♂️🤓 in other words, I'm an Excel wizard by day and a data sorcerer by night. 🌟"
 
 ## Projects
+
+### Data Analysis Projects
+
+1. **[Health Insurance Cost Analysis](https://github.com/IsraelVow/Health-Insurance-Cost-Analysis-Dashboard)**
+- This project aims to gain valuable insights into the cost structure, identify cost drivers, and make data-driven decisions to mitigate or minimize cost implications, thereby improving the overall financial efficiency of the healthcare services provided to HMOs Cast study: Almadina Clinic
+
+2. **[Hotel Revenue Analysis](https://github.com/IsraelVow/Hotel-Revenue-Analysis)**
+- The goal of this project is to build an end-to-end visual project to answer various business questions posed by stakeholders. 
+- The analysis involves creating an SQL database, uploading Excel data to the database, connecting it to Power BI, and building visualizations to present key insights.
 
 ### Excel-Based Projects
 
@@ -35,15 +44,6 @@
 - Manage various assets, including printers, scanners, and office equipment.
 - The system calculates the state, quantity, and location of assets and assists in making informed decisions about repairs and replacements.
 
-
-### Data Analyst Projects
-
-1. **[Health Insurance Cost Analysis](https://github.com/IsraelVow/Health-Insurance-Cost-Analysis-Dashboard)**
-- This project aims to gain valuable insights into the cost structure, identify cost drivers, and make data-driven decisions to mitigate or minimize cost implications, thereby improving the overall financial efficiency of the healthcare services provided to HMOs Cast study: Almadina Clinic
-
-2. **[Hotel Revenue Analysis](https://github.com/IsraelVow/Hotel-Revenue-Analysis)**
-- The goal of this project is to build an end-to-end visual project to answer various business questions posed by stakeholders. 
-- The analysis involves creating an SQL database, uploading Excel data to the database, connecting it to Power BI, and building visualizations to present key insights.
 
 ### Other Interesting Projects
 
