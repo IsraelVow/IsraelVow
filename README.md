@@ -15,7 +15,7 @@
 - 🌱 I’m also currently learning **Python: Flask & Python: Machine Learning**
 - 💬 Ask me about **Python, SQL, Power BI & Excel**
 - 📫 How to reach me: israeljvow@gmail.com
-- ⚡ Fun fact: "It's Strange when I say that not all heroes wear capes because some just wear glasses and work with data. 🦸‍♂️🤓 in other words, I'm an Excel wizard by day and a data sorcerer by night. 🌟"
+- ⚡ Fun fact: "Not all heroes wear capes, some wear glasses and work with data. 🦸‍♂️🤓🌟"
 
 ## Projects
 
