@@ -19,7 +19,7 @@
 
 ### Data Analysis Projects
 
-1. **[Exploratory Data Analysis of Roller Coaster Characteristics and Trends](https://github.com/IsraelVow/Exploratory-Data-Analysis-w-Python)**
+1. **[PYTHON - Exploratory Data Analysis of Roller Coaster Characteristics and Trends](https://github.com/IsraelVow/Exploratory-Data-Analysis-w-Python)**
 - This project aims to gain valuable insights into the cost structure, identify cost drivers, and make data-driven decisions to mitigate or minimize cost implications, thereby improving the overall financial efficiency of the healthcare services provided to HMOs Cast study: Almadina Clinic
 
 2. **[Hotel Revenue Analysis with SQL and Power BI](https://github.com/IsraelVow/Hotel-Revenue-Analysis)**
