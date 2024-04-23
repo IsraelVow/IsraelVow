@@ -2,7 +2,7 @@
 
 
 # Hi 👋, I'm Israel Josiah
-## Business Data Analyst and Excel App Developer
+## Data Analyst and Excel App Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=israelvow&label=Profile%20views&color=0e75b6&style=flat)
 [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=israelvow)](https://github.com/ryo-ma/github-profile-trophy)
