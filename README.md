@@ -19,12 +19,16 @@
 
 ### Data Analysis Projects
 
-1. **[Health Insurance Cost Analysis](https://github.com/IsraelVow/Health-Insurance-Cost-Analysis-Dashboard)**
+1. **[Exploratory Data Analysis of Roller Coaster Characteristics and Trends](https://github.com/IsraelVow/Exploratory-Data-Analysis-w-Python)**
 - This project aims to gain valuable insights into the cost structure, identify cost drivers, and make data-driven decisions to mitigate or minimize cost implications, thereby improving the overall financial efficiency of the healthcare services provided to HMOs Cast study: Almadina Clinic
 
-2. **[Hotel Revenue Analysis](https://github.com/IsraelVow/Hotel-Revenue-Analysis)**
+2. **[Hotel Revenue Analysis with SQL and Power BI](https://github.com/IsraelVow/Hotel-Revenue-Analysis)**
 - The goal of this project is to build an end-to-end visual project to answer various business questions posed by stakeholders. 
 - The analysis involves creating an SQL database, uploading Excel data to the database, connecting it to Power BI, and building visualizations to present key insights.
+
+3. **[Health Insurance Cost Analysis with Excel: Power Pivot, Power Query & Pivot Charts](https://github.com/IsraelVow/Health-Insurance-Cost-Analysis-Dashboard)**
+- This project aims to gain valuable insights into the cost structure, identify cost drivers, and make data-driven decisions to mitigate or minimize cost implications, thereby improving the overall financial efficiency of the healthcare services provided to HMOs Cast study: Almadina Clinic
+
 
 ### Excel-Based Projects
 
