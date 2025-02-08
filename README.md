@@ -10,7 +10,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/jvowid?logo=twitter&style=for-the-badge)](https://twitter.com/jvowid)
 
 - 🔭 Currently building [BiteExpress](https://linktr.ee/biteexpress) , a restaurant food delivery service
-- 🌱 I’m also currently learning **Python: Flask & Python: Machine Learning**
+- 🌱 I’m also currently learning **Cloud Security & Data Engineering**
 - 💬 Ask me about **Python, SQL, Power BI & Excel**
 - 📫 How to reach me: israeljvow@gmail.com
 - ⚡ Fun fact: "Not all heroes wear capes, some wear glasses and work with data. 🦸‍♂️🤓🌟"
@@ -19,42 +19,39 @@
 
 ### Data Analysis Projects
 
-1. **[Python - Exploratory Data Analysis of Roller Coaster Characteristics and Trends](https://github.com/IsraelVow/Exploratory-Data-Analysis-w-Python)**
-- This project focuses on exploring the characteristics and trends of roller coasters through a comprehensive data analysis. By leveraging Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn, the aim is to gain insights into various aspects of roller coaster designs, speeds, heights, and more.
-
+1. **[Power BI Mastery - Advanced Dashboard](https://github.com/IsraelVow/Asset-Management-System-with-Excel-VBA)](https://github.com/IsraelVow/Power-BI-Mastery-Dynamic-Dashboards-Advanced-DAX)**
+-   This project applies best practices in business intelligence (BI) and data visualization to provide actionable insights into YoY growth, customer satisfaction, and profitability.
+-   Sales performance analysis is critical for organizations looking to optimize revenue, monitor trends, and enhance strategic decision-making.
 2. **[Hotel Revenue Analysis with SQL and Power BI](https://github.com/IsraelVow/Hotel-Revenue-Analysis)**
-- The goal of this project is to build an end-to-end visual project to answer various business questions posed by stakeholders. 
+- This project aims to build an end-to-end visual project to answer various business questions posed by stakeholders. 
 - The analysis involves creating an SQL database, uploading Excel data to the database, connecting it to Power BI, and building visualizations to present key insights.
-
-3. **[Health Insurance Cost Analysis with Excel: Power Pivot, Power Query & Pivot Charts](https://github.com/IsraelVow/Health-Insurance-Cost-Analysis-Dashboard)**
-- This project aims to gain valuable insights into the cost structure, identify cost drivers, and make data-driven decisions to mitigate or minimize cost implications, thereby improving the overall financial efficiency of the healthcare services provided to HMOs Cast study: Almadina Clinic
-
+3. **[Python - Exploratory Data Analysis of Roller Coaster Characteristics and Trends](https://github.com/IsraelVow/Exploratory-Data-Analysis-w-Python)**
+- This project focuses on exploring the characteristics and trends of roller coasters through a comprehensive data analysis. Leveraging Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn aims to gain insights into various aspects of roller coaster designs, speeds, heights, and more.
 
 ### Excel-Based Projects
 
 1. **[Expense Management System](https://github.com/IsraelVow/Expense-Management-System-VBA-Excel-Project-)**
 - The system allows users to enter, track, and analyze expenses through a custom userform giving a real-time analytics dashboard including report generation and budget creation.
 - The system was successfully deployed to over 50 users, significantly saving time and money.
-
 2. **[NHIS Claims Management System](https://github.com/IsraelVow/NHIS-Claims-Managements-System-With-Access-Database)**
 - This comprehensive solution is designed to streamline claims processing and management for healthcare providers, specifically tailored for Almadina Clinic. 
 - This project was initiated to address the challenges faced by Almadina Clinic in tracking claims, ensuring data accuracy, and meeting submission deadlines. 
 - It serves as an efficient tool for NHIS officers to manage and process claims seamlessly.
-   
-3. **[Asset Manager](https://github.com/IsraelVow/Asset-Management-System-with-Excel-VBA)**
-- This advanced inventory mgt system allows organizations to track all organizational assets, gadgets, and office stationery to estimate and ascertain their worth based on life data entry
-- Manage various assets, including printers, scanners, and office equipment.
-- The system calculates the state, quantity, and location of assets and assists in making informed decisions about repairs and replacements.
+3. **[Health Insurance Cost Analysis with Excel: Power Pivot, Power Query & Pivot Charts](https://github.com/IsraelVow/Health-Insurance-Cost-Analysis-Dashboard)**
+- This project aims to gain valuable insights into the cost structure, identify cost drivers, and make data-driven decisions to mitigate or minimize cost implications, thereby improving the overall financial efficiency of the healthcare services provided to HMOs Cast study: Almadina Clinic
 
+### Interactive Dashboards
+
+<div style="display: flex; flex-direction: row;">
+  <img src="Icons & Screenshots/Dashboard.gif" alt="Dashboard" width="400" style="margin-right: 20px;">
+   <img src="Expensemgtdashboad-ezgif.com-video-to-gif-converter.gif" alt="Dashboard" width="400" style="margin-right: 20px;">
+</div>
 
 ### Other Interesting Projects
 
 1. **Real Estate Price Prediction (Machine Learning)**: Developed a machine learning model to predict real estate prices using historical data, property features, and market trends. The model assists potential buyers and sellers in making informed decisions.
-
 2. **Image Classification (Machine Learning)**: Created a machine learning model to classify images into predefined categories. This technology is valuable in applications like image tagging and content moderation.
-
 3. **Potato Disease Classification (Deep Learning)**: Utilized deep learning techniques to build a model for classifying diseases in potato plants based on leaf images. This project supports early disease detection in agriculture.
-
 4. **Chatbot Development (NLP)**: Designed and implemented a chatbot using Dialogflow, enhancing user engagement and interaction on various platforms. This chatbot provides instant responses and assistance.
 
 
