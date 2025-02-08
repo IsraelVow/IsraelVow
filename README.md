@@ -44,9 +44,6 @@
 
 <div style="display: flex; flex-direction: row;">
   <img src="https://github.com/IsraelVow/Power-BI-Mastery-Dynamic-Dashboards-Advanced-DAX/blob/main/Dashboard.gif?raw=true" alt="Dashboard" width="400" style="margin-right: 20px;">
-</div>
-
-<div style="display: flex; flex-direction: row;">
   <img src="https://github.com/IsraelVow/Expense-Management-System-VBA-Excel-Project-/blob/main/Expensemgtdashboad-ezgif.com-video-to-gif-converter.gif?raw=true" alt="Dashboard" width="400" style="margin-right: 20px;">
 </div>
 
