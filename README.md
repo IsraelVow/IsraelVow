@@ -47,7 +47,7 @@
 </div>
 
 <div style="display: flex; flex-direction: row;">
-  <img src="[Expensemgtdashboad-ezgif.com-video-to-gif-converter.gif](https://github.com/IsraelVow/Expense-Management-System-VBA-Excel-Project-/blob/main/Expensemgtdashboad-ezgif.com-video-to-gif-converter.gif?raw=true)" alt="Dashboard" width="400" style="margin-right: 20px;">
+  <img src="https://github.com/IsraelVow/Expense-Management-System-VBA-Excel-Project-/blob/main/Expensemgtdashboad-ezgif.com-video-to-gif-converter.gif?raw=true" alt="Dashboard" width="400" style="margin-right: 20px;">
 </div>
 
 ### Other Interesting Projects
