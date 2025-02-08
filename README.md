@@ -19,7 +19,7 @@
 
 ### Data Analysis Projects
 
-1. **[Power BI Mastery - Advanced Dashboard](https://github.com/IsraelVow/Power-BI-Mastery-Dynamic-Dashboards-Advanced-DAX)**
+1. **[Power BI Mastery - Advance Dashboard](https://github.com/IsraelVow/Power-BI-Mastery-Dynamic-Dashboards-Advanced-DAX)**
 -   This project applies best practices in business intelligence (BI) and data visualization to provide actionable insights into YoY growth, customer satisfaction, and profitability.
 -   Sales performance analysis is critical for organizations looking to optimize revenue, monitor trends, and enhance strategic decision-making.
 2. **[Hotel Revenue Analysis with SQL and Power BI](https://github.com/IsraelVow/Hotel-Revenue-Analysis)**
@@ -44,6 +44,9 @@
 
 <div style="display: flex; flex-direction: row;">
   <img src="Icons & Screenshots/Dashboard.gif" alt="Dashboard" width="400" style="margin-right: 20px;">
+</div>
+
+<div style="display: flex; flex-direction: row;">
   <img src="Expensemgtdashboad-ezgif.com-video-to-gif-converter.gif" alt="Dashboard" width="400" style="margin-right: 20px;">
 </div>
 
