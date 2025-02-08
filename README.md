@@ -43,7 +43,7 @@
 ### Interactive Dashboards
 
 <div style="display: flex; flex-direction: row;">
-  <img src="Icons & Screenshots/Dashboard.gif" alt="Dashboard" width="400" style="margin-right: 20px;">
+  <img src="https://github.com/IsraelVow/Power-BI-Mastery-Dynamic-Dashboards-Advanced-DAX/blob/main/Dashboard.gif?raw=true" alt="Dashboard" width="400" style="margin-right: 20px;">
 </div>
 
 <div style="display: flex; flex-direction: row;">
