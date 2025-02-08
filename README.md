@@ -15,6 +15,14 @@
 - 📫 How to reach me: israeljvow@gmail.com
 - ⚡ Fun fact: "Not all heroes wear capes, some wear glasses and work with data. 🦸‍♂️🤓🌟"
 
+
+### Interactive Dashboards
+
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github.com/IsraelVow/Power-BI-Mastery-Dynamic-Dashboards-Advanced-DAX/blob/main/Dashboard.gif?raw=true" alt="Dashboard" width="400" style="margin-right: 20px;">
+  <img src="https://github.com/IsraelVow/Expense-Management-System-VBA-Excel-Project-/blob/main/Expensemgtdashboad-ezgif.com-video-to-gif-converter.gif?raw=true" alt="Dashboard" width="400" style="margin-right: 20px;">
+</div>
+
 ## Projects
 
 ### Data Analysis Projects
@@ -39,13 +47,6 @@
 - It serves as an efficient tool for NHIS officers to manage and process claims seamlessly.
 3. **[Health Insurance Cost Analysis with Excel: Power Pivot, Power Query & Pivot Charts](https://github.com/IsraelVow/Health-Insurance-Cost-Analysis-Dashboard)**
 - This project aims to gain valuable insights into the cost structure, identify cost drivers, and make data-driven decisions to mitigate or minimize cost implications, thereby improving the overall financial efficiency of the healthcare services provided to HMOs Cast study: Almadina Clinic
-
-### Interactive Dashboards
-
-<div style="display: flex; flex-direction: row;">
-  <img src="https://github.com/IsraelVow/Power-BI-Mastery-Dynamic-Dashboards-Advanced-DAX/blob/main/Dashboard.gif?raw=true" alt="Dashboard" width="400" style="margin-right: 20px;">
-  <img src="https://github.com/IsraelVow/Expense-Management-System-VBA-Excel-Project-/blob/main/Expensemgtdashboad-ezgif.com-video-to-gif-converter.gif?raw=true" alt="Dashboard" width="400" style="margin-right: 20px;">
-</div>
 
 ### Other Interesting Projects
 
