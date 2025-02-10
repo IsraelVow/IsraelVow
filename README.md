@@ -16,7 +16,7 @@
 - ⚡ Fun fact: "Not all heroes wear capes, some wear glasses and work with data. 🦸‍♂️🤓🌟"
 
 
-### Interactive Dashboards
+### Dashboards
 
 <div style="display: flex; flex-direction: row;">
   <img src="https://github.com/IsraelVow/Power-BI-Mastery-Dynamic-Dashboards-Advanced-DAX/blob/main/Dashboard.gif?raw=true" alt="Dashboard" width="400" style="margin-right: 20px;">
