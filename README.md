@@ -28,13 +28,13 @@
 ### Data Analysis Projects
 
 1. **[Power BI Mastery - Advance Dashboard](https://github.com/IsraelVow/Power-BI-Mastery-Dynamic-Dashboards-Advanced-DAX)**
--   This project applies best practices in business intelligence (BI) and data visualization to provide actionable insights into YoY growth, customer satisfaction, and profitability.
-2. **[Hotel Revenue Analysis with SQL and Power BI](https://github.com/IsraelVow/Hotel-Revenue-Analysis)**
-- This project aims to build an end-to-end visual project to answer various business questions posed by stakeholders, it involves creating an SQL database, uploading Excel data to the database, connecting it to Power BI, and building visualizations to present key insights.
-3. **[System Performance & User Engagement Analysis](https://github.com/IsraelVow/System-Performance-User-Engagement-Analysis)**
-- The analysis was developed for **FroggyTalk, a VoIP startup**, and structured to seamlessly integrate with real-world datasets from **AWS CloudWatch, CRM logs, and VoIP call records**, making it scalable for any data-driven organization.
+-   This analysis applies best business intelligence (BI) and data visualization practices to provide actionable insights into YoY growth, customer satisfaction, and profitability.
+2. **[System Performance & User Engagement Analysis](https://github.com/IsraelVow/System-Performance-User-Engagement-Analysis)**
+-   The analysis was developed for **FroggyTalk, a VoIP startup**, and structured to seamlessly integrate with real-world datasets from **AWS CloudWatch, CRM logs, and VoIP call records**, making it scalable for any data-driven organization.
+3. **[Hotel Revenue Analysis with SQL and Power BI](https://github.com/IsraelVow/Hotel-Revenue-Analysis)**
+-   This project aims to build an end-to-end visual project to answer various business questions posed by stakeholders, it involves creating an SQL database, uploading Excel data to the database, connecting it to Power BI, and building visualizations to present key insights.
 4. **[Python - Exploratory Data Analysis of Roller Coaster Characteristics and Trends](https://github.com/IsraelVow/Exploratory-Data-Analysis-w-Python)**
-- This project focuses on exploring the characteristics and trends of roller coasters through a comprehensive data analysis. Leveraging Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn aims to gain insights into various aspects of roller coaster designs, speeds, heights, and more.
+-   This project focuses on exploring the characteristics and trends of roller coasters through a comprehensive data analysis. Leveraging Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn aims to gain insights into various aspects of roller coaster designs, speeds, heights, and more.
 
 ### Excel-Based Projects
 
