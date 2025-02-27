@@ -34,7 +34,7 @@
 3. **[Hotel Revenue Analysis with SQL and Power BI](https://github.com/IsraelVow/Hotel-Revenue-Analysis)**
 -   This project aims to build an end-to-end visual project to answer various business questions posed by stakeholders, it involves creating an SQL database, uploading Excel data to the database, connecting it to Power BI, and building visualizations to present key insights.
 4. **[Business Intelligence & Digital Transformation Analysis](https://github.com/IsraelVow/Business-Intelligence---Digital-Transformation-Analysis)**
--   This project explores Tag Dynamics Defense Organization’s digital transformation journey, leveraging data analytics, financial intelligence, and strategic frameworks to unlock business growth, cost efficiency, and market competitiveness.
+-   This project explores XYZ Defense Organization’s digital transformation journey, leveraging data analytics, financial intelligence, and strategic frameworks to unlock business growth, cost efficiency, and market competitiveness.
 5. **[Python - Exploratory Data Analysis of Roller Coaster Characteristics and Trends](https://github.com/IsraelVow/Exploratory-Data-Analysis-w-Python)**
 -   This project focuses on exploring the characteristics and trends of roller coasters through a comprehensive data analysis. Leveraging Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn aims to gain insights into various aspects of roller coaster designs, speeds, heights, and more.
 
