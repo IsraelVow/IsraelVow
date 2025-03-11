@@ -21,7 +21,8 @@
 <div style="display: flex; flex-direction: row;">
   <img src="https://github.com/IsraelVow/Power-BI-Mastery-Dynamic-Dashboards-Advanced-DAX/blob/main/Dashboard.gif?raw=true" alt="Dashboard" width="400" style="margin-right: 20px;">
   <img src="https://github.com/IsraelVow/Expense-Management-System-VBA-Excel-Project-/blob/main/Expensemgtdashboad-ezgif.com-video-to-gif-converter.gif?raw=true" alt="Dashboard" width="400" style="margin-right: 20px;">
-    <img src="https://github.com/IsraelVow/System-Performance-User-Engagement-Analysis/blob/main/Media%20Files/Dashboard.gif?raw=true" alt="Dashboard" width="400" style="margin-right: 20px;">
+  <img src="https://github.com/IsraelVow/System-Performance-User-Engagement-Analysis/blob/main/Media%20Files/Dashboard.gif?raw=true" alt="Dashboard" width="400" style="margin-right: 20px;">
+  <img src="https://github.com/IsraelVow/Customer-Performance-Analysis/blob/main/Media%20(Images%2C%20icons%20%26%20gifs)/Dashboard.gif?raw=true" alt="Dashboard" width="400" style="margin-right: 20px;">
 </div>
 
 ## Projects
